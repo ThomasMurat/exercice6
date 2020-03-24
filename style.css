@@ -6,7 +6,7 @@
 .rect2 { 
     width: 80%;
     height: 50px;
-    background-color: #00FF00; 
+    background-color: rgb(107, 199, 107); 
     }
 .rect3 { 
         width: 100%;
@@ -19,7 +19,7 @@
     background-color: rgb(190, 105, 25); 
     }
 .rect5 { 
-        width: 40%;
+        width: 57%;
         height: 75px;
         background-color: rgb(255, 0, 0); 
         }
